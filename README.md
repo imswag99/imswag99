@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a fresher and actively looking for jobs in order to gain on-field experience
+- 🔭 I’m a fresher Fullstack Engineer and actively looking for jobs in order to gain on-field experience
 - 🌱 I’m currently learning DSA using Python
 - 📫 How to reach me: swagattalukdar007@gmail.com
 - 💻 Portfolio: https://swagat-portfolio.vercel.app
