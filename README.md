@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on MY SKILLS
-- 🌱 I’m currently learning MERN and NextJs
+- 🔭 I’m a fresher and actively looking for jobs in order to gain on-field experience
+- 🌱 I’m currently learning DSA using Python
 - 📫 How to reach me: swagattalukdar007@gmail.com
 - 💻 Portfolio: https://swagat-portfolio.vercel.app
-- ⚡ Fun fact: The more you worry, the more are worries
+- ⚡ Self motivation: The more you worry, the more are worries
